@@ -1,0 +1,6 @@
+{
+  "name": "Darcy-Weisbach Pipe Pressure Drop Calculator",
+  "description": "Interactive Streamlit engineering calculator for fluid pipe pressure drop using the Darcy-Weisbach equation and Colebrook-White friction factor with system curve plotting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
